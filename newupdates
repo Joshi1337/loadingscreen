@@ -1,0 +1,101 @@
+=== 11.1.2022 ===
+
+- Added vMenu for Skin customizations
+- LSC prices adjusted
+- removed /carmenu
+
+
+=== 8.1.2022 ===
+
+- Added Sheriff Vehicles, requested by Ssusenka
+- Added The Contract DLC Vehicles
+
+
+=== 7.1.2022 ===
+
+- Maximum business number per player reduced to 2
+- Bulletproof Vest is now available in the armory
+- Playtime Rewards reduced
+
+
+=== 5.1.2022 ===
+
+- Business now give 2.5% of the purchase price
+- Vehicle prices adjusted
+- Added Audi RS 6 to the police vehicle store
+- various vanilla vehicles in police design added to police vehicle store
+
+
+=== 4.1.2022 ===
+
+- Mission Row MLO Changed
+- Vehicles can now be parked out at all department
+- the consumption of hunger and thirst was halved
+- ATMs are now displayed on the map
+- Business are now displayed on the map
+- SmartSigns reactivated
+
+=== 2.1.2022 ===
+- Weapons can only be purchased from a department that has an armory.
+- Ammunition is obtained by buying the same weapons again (ammunition costs nothing)
+- Added CarWash
+
+=== 1.1.2022 ===
+
+- Vehicles can now no longer be spawned via F11
+- Christmas decoration removed
+- Small visual changes to the loading screen
+- Bonus removed from paycheck
+
+
+=== 30.12.2021 ===
+- Added RPChat sponsored by Yeet200
+- Added Audi RS6 to the Police Shop
+- Removed esx_drugs
+
+
+=== 27.12.2021 ===
+- The animation when using food was removed
+- Rockford Hills PD MLO removed
+- The limit of business per player was increased from 3 to 5
+- Selling the business gives back 25% of the original purchase price
+
+=== 22.12.2021 ===
+- /playtime added
+- The longer the ingame time the higher the bonus
+- Currently there is only money (5k - 20k)
+- The maximum bonus is at 120 minutes and gives 20000$
+
+
+=== 20.12.2021 ===
+- Between 20 Dec and 31 Dec you get an additional 25 XP and $100 extra
+- Business under a value of 50000$ pay only 1% tax
+
+
+=== 18.12.2021 ===
+- Level 1 salary increased to 300$
+- per level salary increases by 50$
+- Davis police MLO removed
+- Removed Checkpoints
+
+
+=== 17.12.2021 ===
+- Business give money even if you are offline
+- Buying stocks now takes 10 - 25minutes
+- Property garages were partially not displayed
+
+
+=== 15.12.2021 ===
+- /eup works again
+- Impound cost reduced from 3000 to 500
+- Cooldown of the scratching ticket removed
+
+
+=== 13.12.2021 ===
+
+- New business created at Burger Shot
+- Hospital spawn moved to Pillbox Hill Hospital
+- The Legion Square Garage spawns have been slightly changed
+- After refueling you now get a message with the exact cost
+- The respawning in the hospital now costs 1000$
+- Police vehicles can now be bought at the police store -> but they can only be parked at police garages
